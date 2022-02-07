@@ -10,3 +10,6 @@ OOP konularından "Encapsulation" konusu ele alındı.
 Bu çalışmada Kodlama.io örneği üzerinde çalışıldı. OOP konularından "Inheritance" ve "Polymorphism" kavramlarına yönelik örnekler ile çalışıldı.
 
 
+## Workshop 3
+
+Bu derste "Interface" ve kullanım amacıyla ilgili alıştırmalar yapıldı. Bu çalışmada Interface yapısı ve Dependency Injection konuları ele alındı. Örnekler ile pekiştirme yapıldı. 
