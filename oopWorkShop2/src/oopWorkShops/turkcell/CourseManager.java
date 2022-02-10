@@ -10,7 +10,5 @@ public class CourseManager {
 
     public void addStudent(Student student, Course course) {
         System.out.println(student.getName() + " added This : " + course.getTitle() + " Course");
-
-
     }
 }

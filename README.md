@@ -9,7 +9,13 @@ OOP konularından "Encapsulation" konusu ele alındı.
 
 Bu çalışmada Kodlama.io örneği üzerinde çalışıldı. OOP konularından "Inheritance" ve "Polymorphism" kavramlarına yönelik örnekler ile çalışıldı.
 
-
 ## Workshop 3
 
 Bu derste "Interface" ve kullanım amacıyla ilgili alıştırmalar yapıldı. Bu çalışmada Interface yapısı ve Dependency Injection konuları ele alındı. Örnekler ile pekiştirme yapıldı. 
+
+## Workshop 4
+
+Bu çalışmada OOP yaklaşımlarına ve SOLID prensiplerine uygun, katmanlı mimari yapısıyla bir eğitim platformu backendi gerçekleştirilmiştir.
+Çalışmada herhangi bir sunum katmanı bulunmamakta, yalnızca backend çalışmaları içermektedir.
+
+Not: Business katmanında varlıkların bazılarının yalnızca soyut olan servis arayüzü yazılmıştır. Örnekte Course ve User varlıklarının manager sınıfları yazılmış olup, diğer varlıkların manager sınıfları mevcut değildir. 
