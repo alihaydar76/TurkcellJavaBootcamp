@@ -18,4 +18,9 @@ Bu derste "Interface" ve kullanım amacıyla ilgili alıştırmalar yapıldı. B
 Bu çalışmada OOP yaklaşımlarına ve SOLID prensiplerine uygun, katmanlı mimari yapısıyla bir eğitim platformu backendi gerçekleştirilmiştir.
 Çalışmada herhangi bir sunum katmanı bulunmamakta, yalnızca backend çalışmaları içermektedir.
 
-Not: Business katmanında varlıkların bazılarının yalnızca soyut olan servis arayüzü yazılmıştır. Örnekte Course ve User varlıklarının manager sınıfları yazılmış olup, diğer varlıkların manager sınıfları mevcut değildir. 
+Not: Business katmanında varlıkların bazılarının yalnızca soyut olan servis arayüzü yazılmıştır. Örnekte Course ve User varlıklarının manager sınıfları yazılmış olup, diğer varlıkların manager sınıfları mevcut değildir.
+
+## Workshop 5
+
+Bu çalışmada önceki çalışmalar üzerine "Exception Handling" çalışması yapılmış olup, projeye özgü exception sınıfları yazılmış ve unchecked exception türü olan Runtime exception sınıfı bahsi geçen sınıflar tarafından kalıtım alınmıştır.
+İstisnai durumlara özel 3 adet exception sınıfı yazılmıştır.
